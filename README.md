@@ -1,8 +1,7 @@
-# netease-clound-webapps
+﻿# netease-clound-webapps
 
-> 这是一个用VUEJS写高仿网易云音乐的webapp，只实现了APP的核心功能，这个项目会长期进行更新。
+> 这是一个用VUEJS写高仿网易云音乐的webapp，只实现了APP的核心功能
 
-[在线地址](http://musicapi.duapp.com/)
 
 ### 技术栈
 - 传说中的VUE全家桶(vue vue-router vuex)
@@ -46,5 +45,4 @@ npm test
 
 此网站提供的API: [https://api.imjad.cn/cloudmusic/](https://api.imjad.cn/cloudmusic/) ,此接口的说明请到这里[查看](https://api.imjad.cn/cloudmusic/index.html)
 
-歌单列表部分为自己提供，在别一个项目中[MusicApi](https://github.com/javaSwing/MusicAPI)
 
